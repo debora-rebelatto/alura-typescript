@@ -1,1 +1,3 @@
-# alura-typescript
+# Alura Typescript
+
+Curso de TS da Alura.
